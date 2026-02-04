@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.eggs/
+*.egg-info/
+dist/
+build/
+*.so
+*.ini
+celerybeat-schedule
+
+# Environment
+.env
+.env.local
+.env.*.local
+.venv
+
+# Vercel
+.vercel/
